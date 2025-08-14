@@ -843,6 +843,7 @@ objecten:
       port: 587
       useTLS: true
     disable2fa: false
+    # logLevel: "INFO"
   persistence:
     size: 10Gi
     existingClaim: objecten
