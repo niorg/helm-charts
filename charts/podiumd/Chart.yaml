@@ -23,7 +23,7 @@ dependencies:
     repository: "@maykinmedia"
     condition: openzaak.enabled
   - name: opennotificaties
-    version: 1.8.5
+    version: 1.9.5
     repository: "@maykinmedia"
     condition: opennotificaties.enabled
   - name: objecten

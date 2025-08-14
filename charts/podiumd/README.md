@@ -58,7 +58,7 @@
 | Open Formulieren   | 3.0.7      | Major update    | 1.8.2        |                |
 | Open Inwoner       | 1.29.0     | Minor update    | 1.7.2        |                |
 | Open Klant         | 2.7.0      | Major update    | 1.6.6        | Minor Update   |
-| Open Notificaties  | 1.8.2      |                 | 1.8.5        | Minor Update   |
+| Open Notificaties  | 1.8.2      |                 | 1.9.5        | Minor Update   |
 | Open Zaak          | 1.18.0     |                 | 1.8.1        |                |
 | Open Archiefbeheer | 1.0.0      |                 | 1.3.10       |                |
 | Kiss               | 1.0.0      | Major update    | 1.0.0        |                |
